@@ -1,0 +1,9 @@
+What is a Framework?
+
+A framework is a structured foundation of reusable code, tools, libraries, or resources 
+that provide a standardized way to develop and organize software applications. 
+Frameworks offer pre-built functions, modules, and conventions, allowing developers to focus 
+on the application’s unique aspects rather than common programming tasks. For instance, web 
+frameworks like Django for Python or Ruby on Rails for Ruby streamline web application development 
+by handling routing, database interactions, and user authentication.
+
